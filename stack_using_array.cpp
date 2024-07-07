@@ -12,6 +12,10 @@ public:
     {
         v.pop_back();
     }
+    // void pop()
+    // {
+    //     v.pop_back();
+    // }
     int top()
     {
         return v.back();
